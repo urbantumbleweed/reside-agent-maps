@@ -1,0 +1,15 @@
+{
+  "name": "reside-agent-maps",
+  "version": "0.0.1",
+  "description": "reside hackathon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {}
+}
